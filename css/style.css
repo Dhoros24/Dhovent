@@ -60,10 +60,9 @@
 .container{
 	position:relative;
 }
-/* styles for mobile devices with screens 800px wide or less */
 @media screen and (max-width:800px){
 	.container{
-		position:relative;
+		position:absolute;
 	}
 }
 .main_image{
